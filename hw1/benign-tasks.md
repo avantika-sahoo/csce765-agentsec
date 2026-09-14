@@ -57,6 +57,3 @@ When you run this code, it will output: "Goodbye! Have a great day!"
 None
 
 *The result was correct.*
-None
-
-The result was correct.
