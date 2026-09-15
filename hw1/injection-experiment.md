@@ -182,7 +182,7 @@ TIME	KIND	STATUS	AGENT	RUN	ACTION
 
 2026-09-15T04:37:25.464Z	agent_run	succeeded	main	858827be-da8b-4c0…	agent.run.finished
 
-Authorization decision made between first and second lines.
+Authorization decision made between first and second lines. Authorization was not granted.
 
 [MARKER CREATION]
 
