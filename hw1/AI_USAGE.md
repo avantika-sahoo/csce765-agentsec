@@ -8,7 +8,7 @@ in fixing any errors I was running into. Additionally, it provided me a template
 I edited the templates to put information that I made up. 
 
 For Task 3, I had ChatGPT walk me through in completing the two trials. I also had it assist me when trying to get
-OpenClaw to recognize the skill I created. 
+OpenClaw to recognize the skill I created. Additionally, I had it assist me in creating the skill proposal. 
 
 For Task 4, I asked ChatGPT for suggestions on what I could label on the diagram (referring to what are possible
 assets, threats, etc.).
