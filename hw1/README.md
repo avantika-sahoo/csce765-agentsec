@@ -132,3 +132,11 @@ After creating web pages, serve them with
 cd ~/csce765-agentsec/hw1
 python3 -m http.server 8000 --directory web --bind 127.0.0.1
 ```
+
+## Checkoff
+Check that the following are present in report.pdf before submitting
+1. 3-5 benign task results
+2. Task 3 trial write-ups, annotated transcript of each trial, <= 600 word answers to four questions
+3. Task 4 data-flow diagram, needed labels, 500-700 word advisory analysis
+4. Screenshots showing tasks running
+5. Experience working on tasks
